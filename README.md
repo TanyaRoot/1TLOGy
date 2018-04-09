@@ -1,3 +1,3 @@
 # 1TLOGy
 
-commit
+https://tanyaroot.github.io/1TLOGy/
