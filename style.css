@@ -1,0 +1,20 @@
+#all {
+  display: flex;
+}
+#all > div {
+  border: 1px solid gray;
+  width: 300px;
+  height: 500px;
+  margin: 5px;
+}
+#add {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#log {
+  overflow-y: scroll;
+}
+#log > p {
+  margin: 0;
+}
