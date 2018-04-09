@@ -13,8 +13,9 @@
   align-items: center;
 }
 #log {
+  border: 1px solid gray;
+  width: 300px;
+  height: 500px;
+  margin: 5px;
   overflow-y: scroll;
-}
-#log > p {
-  margin: 0;
 }
